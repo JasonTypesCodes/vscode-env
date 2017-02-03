@@ -1,0 +1,13 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontFamily": "Source Code Pro",
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.rulers": [120],
+    "editor.renderIndentGuides": true,
+    "editor.renderWhitespace": "boundary",
+    "workbench.editor.enablePreview": false,
+    "window.zoomLevel": 0,
+    "explorer.openEditors.visible": 0,
+    "explorer.autoReveal": false
+  }
