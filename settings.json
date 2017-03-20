@@ -9,5 +9,8 @@
     "workbench.editor.enablePreview": false,
     "window.zoomLevel": 0,
     "explorer.openEditors.visible": 0,
-    "explorer.autoReveal": false
+    "explorer.autoReveal": false,
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Monokai-black",
+    "extensions.autoUpdate": true
   }
