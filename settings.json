@@ -1,6 +1,8 @@
 // Place your settings in this file to overwrite the default settings
 {
     "editor.fontFamily": "Source Code Pro",
+    "editor.fontSize": 14,
+    "editor.fontWeight": "normal",
     "editor.tabSize": 2,
     "editor.insertSpaces": true,
     "editor.rulers": [120],
@@ -12,5 +14,19 @@
     "explorer.autoReveal": false,
     "editor.wordWrap": "on",
     "workbench.colorTheme": "Monokai-black",
-    "extensions.autoUpdate": true
+    "extensions.autoUpdate": true,
+    "search.exclude": {
+      "**/node_modules": true,
+      "**/bower_components": true,
+      "**/target": true,
+      "**/build": true,
+      "**/bin": true,
+      "**/gradle": true,
+      "**/.gradle": true
+    },
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "terminal.integrated.shellArgs.windows": [
+        "/k",
+        "C:\\Program Files\\Git\\bin\\bash.exe"
+    ]
   }
