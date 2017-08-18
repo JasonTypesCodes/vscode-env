@@ -2,7 +2,7 @@
 {
     "editor.fontFamily": "Source Code Pro",
     "editor.fontSize": 14,
-    "editor.fontWeight": "normal",
+    "editor.fontWeight": "600",
     "editor.tabSize": 2,
     "editor.insertSpaces": true,
     "editor.rulers": [120],
