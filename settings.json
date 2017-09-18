@@ -13,7 +13,7 @@
     "explorer.openEditors.visible": 0,
     "explorer.autoReveal": false,
     "editor.wordWrap": "on",
-    "workbench.colorTheme": "Monokai-black",
+    "workbench.colorTheme": "Monokai",
     "extensions.autoUpdate": true,
     "search.exclude": {
       "**/node_modules": true,
