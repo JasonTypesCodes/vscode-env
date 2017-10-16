@@ -1,7 +1,7 @@
 // Place your settings in this file to overwrite the default settings
 {
     "editor.fontFamily": "Source Code Pro",
-    "editor.fontSize": 14,
+    "editor.fontSize": 16,
     "editor.fontWeight": "600",
     "editor.tabSize": 2,
     "editor.insertSpaces": true,
@@ -13,7 +13,7 @@
     "explorer.openEditors.visible": 0,
     "explorer.autoReveal": false,
     "editor.wordWrap": "on",
-    "workbench.colorTheme": "Monokai",
+    "workbench.colorTheme": "3024 Night",
     "extensions.autoUpdate": true,
     "search.exclude": {
       "**/node_modules": true,
@@ -28,5 +28,6 @@
     "terminal.integrated.shellArgs.windows": [
         "/k",
         "C:\\Program Files\\Git\\bin\\bash.exe"
-    ]
+    ],
+    "workbench.iconTheme": "Monokai Classic Icons"
   }
