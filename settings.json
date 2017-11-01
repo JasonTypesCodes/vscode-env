@@ -9,7 +9,7 @@
     "editor.renderIndentGuides": true,
     "editor.renderWhitespace": "boundary",
     "workbench.editor.enablePreview": false,
-    "window.zoomLevel": 0,
+    "window.zoomLevel": 1,
     "explorer.openEditors.visible": 0,
     "explorer.autoReveal": false,
     "editor.wordWrap": "on",
@@ -29,5 +29,6 @@
         "/k",
         "C:\\Program Files\\Git\\bin\\bash.exe"
     ],
-    "workbench.iconTheme": "vscode-great-icons"
+    "workbench.iconTheme": "vscode-great-icons",
+    "extensions.ignoreRecommendations": false
   }
