@@ -9,10 +9,11 @@
     "editor.renderIndentGuides": true,
     "editor.renderWhitespace": "boundary",
     "workbench.editor.enablePreview": false,
-    "window.zoomLevel": 1,
+    "window.zoomLevel": 0,
     "explorer.openEditors.visible": 0,
     "explorer.autoReveal": false,
     "editor.wordWrap": "on",
+    "javascript.validate.enable": false,
     "workbench.colorTheme": "3024 Night",
     "extensions.autoUpdate": true,
     "search.exclude": {
@@ -30,5 +31,6 @@
         "C:\\Program Files\\Git\\bin\\bash.exe"
     ],
     "workbench.iconTheme": "vscode-great-icons",
-    "extensions.ignoreRecommendations": false
+    "extensions.ignoreRecommendations": false,
+    "workbench.panel.location": "bottom"
   }
