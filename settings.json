@@ -30,6 +30,8 @@
         "/k",
         "C:\\Program Files\\Git\\bin\\bash.exe"
     ],
+    "terminal.integrated.fontFamily": "Source Code Pro Semibold",
+    "terminal.integrated.fontSize": 15,
     "workbench.iconTheme": "vscode-great-icons",
     "extensions.ignoreRecommendations": false,
     "workbench.panel.location": "bottom"
