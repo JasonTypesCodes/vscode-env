@@ -41,5 +41,13 @@
   {
     "key": "ctrl+down",
     "command": "workbench.action.terminal.focus"
+  },
+  {
+    "key": "ctrl+up",
+    "command": "workbench.action.toggleZenMode"
+  },
+  {
+    "key": "ctrl+k z",
+    "command": "-workbench.action.toggleZenMode"
   }
 ]

@@ -8,13 +8,15 @@
     "editor.rulers": [120],
     "editor.renderIndentGuides": true,
     "editor.renderWhitespace": "boundary",
+    "editor.trimAutoWhitespace": true,
+    "files.trimTrailingWhitespace": true,
     "workbench.editor.enablePreview": false,
     "window.zoomLevel": 0,
     "explorer.openEditors.visible": 0,
     "explorer.autoReveal": false,
     "editor.wordWrap": "on",
     "javascript.validate.enable": false,
-    "workbench.colorTheme": "3024 Night",
+    "workbench.colorTheme": "Gruvbox",
     "extensions.autoUpdate": true,
     "search.exclude": {
       "**/node_modules": true,
@@ -33,6 +35,8 @@
     "terminal.integrated.fontFamily": "Source Code Pro Semibold",
     "terminal.integrated.fontSize": 15,
     "workbench.iconTheme": "vscode-great-icons",
+    "workbench.editor.showTabs": false,
     "extensions.ignoreRecommendations": false,
-    "workbench.panel.location": "bottom"
+    "workbench.panel.location": "bottom",
+    "zenMode.hideStatusBar": true
   }
