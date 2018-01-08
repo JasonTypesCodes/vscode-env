@@ -5,6 +5,7 @@
     "editor.fontWeight": "600",
     "editor.tabSize": 2,
     "editor.insertSpaces": true,
+    "editor.minimap.enabled": false,
     "editor.rulers": [120],
     "editor.renderIndentGuides": true,
     "editor.renderWhitespace": "boundary",
