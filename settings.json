@@ -36,6 +36,7 @@
     ],
     "terminal.integrated.fontFamily": "Source Code Pro Semibold",
     "terminal.integrated.fontSize": 16,
+    "terminal.integrated.cursorBlinking": true,
     "workbench.iconTheme": "vscode-great-icons",
     "workbench.editor.showTabs": false,
     "extensions.ignoreRecommendations": false,
