@@ -18,7 +18,7 @@
     "explorer.autoReveal": false,
     "editor.wordWrap": "on",
     "javascript.validate.enable": false,
-    "workbench.colorTheme": "Gruvbox",
+    "workbench.colorTheme": "Base16 Dark 3024",
     "extensions.autoUpdate": true,
     "search.exclude": {
       "**/node_modules": true,
@@ -40,5 +40,6 @@
     "workbench.iconTheme": "vscode-great-icons",
     "workbench.editor.showTabs": false,
     "extensions.ignoreRecommendations": false,
-    "zenMode.hideStatusBar": true
+    "zenMode.hideStatusBar": true,
+    "zenMode.centerLayout": false
   }
