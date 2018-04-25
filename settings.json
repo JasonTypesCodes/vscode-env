@@ -11,6 +11,14 @@
     "editor.renderWhitespace": "boundary",
     "editor.trimAutoWhitespace": true,
     "files.trimTrailingWhitespace": true,
+    "files.autoSave": "onFocusChange",
+    "files.watcherExclude": {
+      "**/.git/objects/**": true,
+      "**/.git/subtree-cache/**": true,
+      "**/node_modules/**": true,
+      "**/flow-typed/**": true,
+      "**/coverage/**": true
+    },
     "workbench.editor.enablePreview": false,
     "workbench.startupEditor": "none",
     "window.zoomLevel": 0,
