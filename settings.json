@@ -19,6 +19,7 @@
       "**/flow-typed/**": true,
       "**/coverage/**": true
     },
+    "files.insertFinalNewline": true,
     "workbench.editor.enablePreview": false,
     "workbench.startupEditor": "none",
     "window.zoomLevel": 0,
