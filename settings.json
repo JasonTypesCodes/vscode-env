@@ -50,5 +50,8 @@
     "workbench.editor.showTabs": false,
     "extensions.ignoreRecommendations": false,
     "zenMode.hideStatusBar": true,
-    "zenMode.centerLayout": false
+    "zenMode.centerLayout": false,
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    }
   }
