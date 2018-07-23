@@ -3,6 +3,7 @@ EditorConfig.EditorConfig
 IBM.output-colorizer
 PeterJausovec.vscode-docker
 TsumiNa.Seti-theme
+andys8.jest-snippets
 bierner.markdown-mermaid
 christian-kohler.npm-intellisense
 dbaeumer.vscode-eslint
@@ -11,7 +12,9 @@ eg2.vscode-npm-script
 egoist.theme-slate
 emmanuelbeziat.vscode-great-icons
 gerane.Theme-TwoStones
+golf1052.base16-generator
 hbenl.vscode-firefox-debug
+jamesmaj.easy-icons
 lei.theme-chromodynamics
 ms-vscode.Theme-1337
 ms-vscode.Theme-3024Kit

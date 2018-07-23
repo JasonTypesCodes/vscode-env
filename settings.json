@@ -27,7 +27,7 @@
     "explorer.autoReveal": false,
     "editor.wordWrap": "on",
     "javascript.validate.enable": false,
-    "workbench.colorTheme": "Base16 Dark 3024",
+    "workbench.colorTheme": "Monokai-black",
     "extensions.autoUpdate": true,
     "search.exclude": {
       "**/node_modules": true,
@@ -46,7 +46,7 @@
     "terminal.integrated.fontFamily": "Source Code Pro Semibold",
     "terminal.integrated.fontSize": 16,
     "terminal.integrated.cursorBlinking": true,
-    "workbench.iconTheme": "vscode-great-icons",
+    "workbench.iconTheme": "easy-icons",
     "workbench.editor.showTabs": false,
     "extensions.ignoreRecommendations": false,
     "zenMode.hideStatusBar": true,
