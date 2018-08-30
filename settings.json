@@ -27,7 +27,7 @@
     "explorer.autoReveal": false,
     "editor.wordWrap": "on",
     "javascript.validate.enable": false,
-    "workbench.colorTheme": "Monokai-black",
+    "workbench.colorTheme": "Base16 Dark Harmonic",
     "extensions.autoUpdate": true,
     "search.exclude": {
       "**/node_modules": true,
@@ -53,5 +53,6 @@
     "zenMode.centerLayout": false,
     "emmet.includeLanguages": {
       "javascript": "javascriptreact"
-    }
+    },
+    "breadcrumbs.enabled": false
   }
