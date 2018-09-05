@@ -26,6 +26,7 @@
     "explorer.openEditors.visible": 0,
     "explorer.autoReveal": false,
     "editor.wordWrap": "on",
+    "keyboard.dispatch": "keyCode",
     "javascript.validate.enable": false,
     "workbench.colorTheme": "Base16 Dark Harmonic",
     "extensions.autoUpdate": true,
