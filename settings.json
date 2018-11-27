@@ -6,8 +6,9 @@
     "editor.tabSize": 2,
     "editor.insertSpaces": true,
     "editor.minimap.enabled": false,
-    "editor.rulers": [120],
-    "editor.renderIndentGuides": true,
+    "editor.rulers": [
+      80, 120
+    ],
     "editor.renderWhitespace": "boundary",
     "editor.trimAutoWhitespace": true,
     "files.trimTrailingWhitespace": true,
@@ -28,7 +29,7 @@
     "editor.wordWrap": "on",
     "keyboard.dispatch": "keyCode",
     "javascript.validate.enable": false,
-    "workbench.colorTheme": "Base16 Dark Harmonic",
+    "workbench.colorTheme": "Base16 Dark Pop",
     "extensions.autoUpdate": true,
     "search.exclude": {
       "**/node_modules": true,

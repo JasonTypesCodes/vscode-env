@@ -53,5 +53,17 @@
   {
     "key": "shift+alt+e",
     "command": "workbench.view.explorer"
+  },
+  {
+    "key": "ctrl+shift+space",
+    "command": "bookmarks.toggle"
+  },
+  {
+    "key": "ctrl+alt+j",
+    "command": "bookmarks.jumpToNext"
+  },
+  {
+    "key": "ctrl+alt+p",
+    "command": "bookmarks.jumpToPrevious"
   }
 ]
