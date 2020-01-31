@@ -6,8 +6,9 @@
     "editor.tabSize": 2,
     "editor.insertSpaces": true,
     "editor.minimap.enabled": false,
-    "editor.rulers": [120],
-    "editor.renderIndentGuides": true,
+    "editor.rulers": [
+      80, 120
+    ],
     "editor.renderWhitespace": "boundary",
     "editor.trimAutoWhitespace": true,
     "files.trimTrailingWhitespace": true,
