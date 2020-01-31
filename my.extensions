@@ -1,5 +1,6 @@
-alefragnani.Bookmarks
 AndrsDC.base16-themes
+IBM.output-colorizer
+alefragnani.Bookmarks
 andys8.jest-snippets
 bierner.markdown-mermaid
 christian-kohler.npm-intellisense
@@ -8,15 +9,14 @@ donjayamanne.githistory
 EditorConfig.EditorConfig
 eg2.vscode-npm-script
 emmanuelbeziat.vscode-great-icons
-hbenl.vscode-firefox-debug
-IBM.output-colorizer
+humao.rest-client
 jamesmaj.easy-icons
 lei.theme-chromodynamics
-PeterJausovec.vscode-docker
 redhat.java
 ryanluker.vscode-coverage-gutters
 stevejpurves.cucumber
 streetsidesoftware.code-spell-checker
+swiip.sunset-theme
 vscjava.vscode-java-debug
 vscjava.vscode-java-pack
 vscjava.vscode-java-test
