@@ -28,7 +28,7 @@
     "editor.wordWrap": "on",
     "keyboard.dispatch": "keyCode",
     "javascript.validate.enable": false,
-    "workbench.colorTheme": "Base16 Dark Harmonic",
+    "workbench.colorTheme": "Sunset Theme",
     "extensions.autoUpdate": true,
     "search.exclude": {
       "**/node_modules": true,
@@ -55,5 +55,6 @@
     "emmet.includeLanguages": {
       "javascript": "javascriptreact"
     },
-    "breadcrumbs.enabled": false
+    "breadcrumbs.enabled": false,
+    "zenMode.hideLineNumbers": false
   }
