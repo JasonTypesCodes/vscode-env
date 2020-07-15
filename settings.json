@@ -1,6 +1,6 @@
 // Place your settings in this file to overwrite the default settings
 {
-    "editor.fontFamily": "Source Code Pro",
+    "editor.fontFamily": "Source Code Variable, Source Code Pro, monospace",
     "editor.fontSize": 16,
     "editor.fontWeight": "600",
     "editor.tabSize": 2,
@@ -29,7 +29,7 @@
     "editor.wordWrap": "on",
     "keyboard.dispatch": "keyCode",
     "javascript.validate.enable": false,
-    "workbench.colorTheme": "Sunset Theme",
+    "workbench.colorTheme": "Base16 Dark Woodland",
     "extensions.autoUpdate": true,
     "search.exclude": {
       "**/node_modules": true,
@@ -45,7 +45,7 @@
         "/k",
         "C:\\Program Files\\Git\\bin\\bash.exe"
     ],
-    "terminal.integrated.fontFamily": "Source Code Pro Semibold",
+    "terminal.integrated.fontFamily": "Source Code Variable, Source Code Pro Semibold, Hack, monospace",
     "terminal.integrated.fontSize": 16,
     "terminal.integrated.cursorBlinking": true,
     "workbench.iconTheme": "easy-icons",
@@ -63,5 +63,9 @@
       "Micronaut",
       "triaging"
     ],
-    "java.configuration.checkProjectSettingsExclusions": false
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "java.semanticHighlighting.enabled": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "java.project.importOnFirstTimeStartup": "automatic"
   }

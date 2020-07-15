@@ -65,5 +65,15 @@
   {
     "key": "ctrl+alt+p",
     "command": "bookmarks.jumpToPrevious"
+  },
+  {
+    "key": "ctrl+shift+alt+f",
+    "command": "workbench.action.terminal.focusFind",
+    "when": "terminalFindFocused || terminalFocus"
+  },
+  {
+    "key": "ctrl+f",
+    "command": "-workbench.action.terminal.focusFind",
+    "when": "terminalFindFocused || terminalFocus"
   }
 ]
