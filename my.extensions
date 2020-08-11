@@ -1,8 +1,10 @@
-alefragnani.Bookmarks
 AndrsDC.base16-themes
+IBM.output-colorizer
+alefragnani.Bookmarks
 asciidoctor.asciidoctor-vscode
 christian-kohler.npm-intellisense
 dbaeumer.vscode-eslint
+DigitalBrainstem.javascript-ejs-support
 donjayamanne.githistory
 eamodio.gitlens
 EditorConfig.EditorConfig
@@ -10,7 +12,6 @@ eg2.vscode-npm-script
 emmanuelbeziat.vscode-great-icons
 foxhoundn.synthax
 humao.rest-client
-IBM.output-colorizer
 jamesmaj.easy-icons
 jansim.solarized-sunset
 jimmydc.everset
@@ -22,6 +23,7 @@ redhat.java
 rmarinbe.icy-sunset
 robertrossmann.remedy
 ryanluker.vscode-coverage-gutters
+sohibe.java-generate-setters-getters
 stevejpurves.cucumber
 streetsidesoftware.code-spell-checker
 swiip.sunset-theme
