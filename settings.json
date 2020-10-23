@@ -29,7 +29,7 @@
     "editor.wordWrap": "on",
     "keyboard.dispatch": "keyCode",
     "javascript.validate.enable": false,
-    "workbench.colorTheme": "Base16 Dark Woodland",
+    "workbench.colorTheme": "Bright night",
     "extensions.autoUpdate": true,
     "search.exclude": {
       "**/node_modules": true,
