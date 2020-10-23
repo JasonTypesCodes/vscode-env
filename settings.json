@@ -29,7 +29,6 @@
     "editor.wordWrap": "on",
     "keyboard.dispatch": "keyCode",
     "javascript.validate.enable": false,
-    "workbench.colorTheme": "Bright night",
     "extensions.autoUpdate": true,
     "search.exclude": {
       "**/node_modules": true,
@@ -68,5 +67,6 @@
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "java.project.importOnFirstTimeStartup": "automatic",
-    "maven.executable.preferMavenWrapper": true
+    "maven.executable.preferMavenWrapper": true,
+    "workbench.colorTheme": "Bright night"
   }
