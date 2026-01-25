@@ -19,7 +19,7 @@ function doRemove(packagesToRemove) {
 function doSomething(packages, commandSwitch, description) {
   if(packages.length > 0) {
     const command = packages
-      .reduce((result, item) => `${result} ${commandSwitch} ${item}`, 'code');
+      .reduce((result, item) => `${result} ${commandSwitch} ${item}`, 'codium');
   
     execSync(command, {stdio: [process.stdin, process.stdout, process.stderr]});
   } else {
@@ -29,7 +29,7 @@ function doSomething(packages, commandSwitch, description) {
 
 function updateMyExtensions() {
   console.log('Updating my.extensions...');
-  execSync('code --list-extensions > my.extensions', {stdio: [process.stdin, process.stdout, process.stderr]});
+  execSync('codium --list-extensions > my.extensions', {stdio: [process.stdin, process.stdout, process.stderr]});
 }
 
 function start(packagesToRemove, packagesToInstall) {
@@ -40,7 +40,7 @@ function start(packagesToRemove, packagesToInstall) {
   rl.close();
 }
 
-const installedPackages = execSync('code --list-extensions').toString()
+const installedPackages = execSync('codium --list-extensions').toString()
   .split('\n')
   .map((item) => item.trim())
   .filter((item) => !!item);
