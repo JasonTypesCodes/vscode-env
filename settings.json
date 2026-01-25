@@ -1,6 +1,6 @@
 // Place your settings in this file to overwrite the default settings
 {
-    "editor.fontFamily": "Source Code Variable, Source Code Pro, monospace",
+    "editor.fontFamily": "'0xProto', Source Code Variable, Source Code Pro, monospace",
     "editor.fontSize": 16,
     "editor.fontWeight": "600",
     "editor.tabSize": 2,
@@ -44,11 +44,11 @@
         "/k",
         "C:\\Program Files\\Git\\bin\\bash.exe"
     ],
-    "terminal.integrated.fontFamily": "Source Code Variable, Source Code Pro Semibold, Hack, monospace",
+    "terminal.integrated.fontFamily": "'0xProto', Source Code Variable, Source Code Pro Semibold, Hack, monospace",
     "terminal.integrated.fontSize": 16,
     "terminal.integrated.cursorBlinking": true,
     "workbench.iconTheme": "easy-icons",
-    "workbench.editor.showTabs": false,
+    "workbench.editor.showTabs": "single",
     "extensions.ignoreRecommendations": false,
     "zenMode.hideStatusBar": true,
     "zenMode.centerLayout": false,
@@ -68,5 +68,5 @@
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "java.project.importOnFirstTimeStartup": "automatic",
     "maven.executable.preferMavenWrapper": true,
-    "workbench.colorTheme": "Sunset Theme"
+    "workbench.colorTheme": "Sinequanone Sunset"
   }

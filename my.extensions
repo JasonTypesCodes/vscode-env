@@ -6,14 +6,16 @@ digitalbrainstem.javascript-ejs-support
 donjayamanne.githistory
 eamodio.gitlens
 editorconfig.editorconfig
-eg2.vscode-npm-script
 emmanuelbeziat.vscode-great-icons
+fernaandojr.synthwave-remix-min-darker
 foxhoundn.synthax
 humao.rest-client
 ibm.output-colorizer
 jansim.solarized-sunset
+juanmnl.vscode-theme-1984
 redhat.java
 ryanluker.vscode-coverage-gutters
+sirilmp.dark-theme-sm
 streetsidesoftware.code-spell-checker
 vscjava.vscode-gradle
 vscjava.vscode-java-debug
@@ -22,3 +24,4 @@ vscjava.vscode-java-pack
 vscjava.vscode-java-test
 vscjava.vscode-maven
 wayou.vscode-todo-highlight
+wicked-labs.sinequanone-sunset
