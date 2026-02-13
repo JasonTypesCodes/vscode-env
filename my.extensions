@@ -1,4 +1,5 @@
 alefragnani.bookmarks
+anthropic.claude-code
 asciidoctor.asciidoctor-vscode
 christian-kohler.npm-intellisense
 dbaeumer.vscode-eslint
@@ -16,6 +17,7 @@ juanmnl.vscode-theme-1984
 redhat.java
 ryanluker.vscode-coverage-gutters
 sirilmp.dark-theme-sm
+sst-dev.opencode
 streetsidesoftware.code-spell-checker
 vscjava.vscode-gradle
 vscjava.vscode-java-debug

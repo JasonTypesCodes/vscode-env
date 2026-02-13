@@ -26,7 +26,7 @@
     "window.zoomLevel": 0,
     "explorer.openEditors.visible": 0,
     "explorer.autoReveal": false,
-    "editor.wordWrap": "on",
+    "editor.wordWrap": "bounded",
     "keyboard.dispatch": "keyCode",
     "javascript.validate.enable": false,
     "extensions.autoUpdate": true,
@@ -68,5 +68,12 @@
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "java.project.importOnFirstTimeStartup": "automatic",
     "maven.executable.preferMavenWrapper": true,
-    "workbench.colorTheme": "Sinequanone Sunset"
+    "workbench.colorTheme": "Sinequanone Sunset",
+    "editor.wordWrapColumn": 120,
+    "notebook.output.wordWrap": true,
+    "chat.editor.wordWrap": "on",
+    "editor.wrapOnEscapedLineFeeds": true,
+    "[markdown]": {
+      "editor.wordWrap": "bounded"
+    }
   }
