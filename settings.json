@@ -68,13 +68,13 @@
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "java.project.importOnFirstTimeStartup": "automatic",
     "maven.executable.preferMavenWrapper": true,
-    "workbench.colorTheme": "Sinequanone Sunset",
+    "workbench.colorTheme": "SynthWave 84' Remix Min Darker (by FernaandoJr)",
     "editor.wordWrapColumn": 120,
     "notebook.output.wordWrap": true,
     "chat.editor.wordWrap": "on",
     "editor.wrapOnEscapedLineFeeds": true,
     "[markdown]": {
       "editor.wordWrap": "bounded"
-    }
+    },
     "rest-client.previewOption": "exchange"
   }
