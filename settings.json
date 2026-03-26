@@ -68,5 +68,6 @@
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "java.project.importOnFirstTimeStartup": "automatic",
     "maven.executable.preferMavenWrapper": true,
-    "workbench.colorTheme": "Sinequanone Sunset"
+    "workbench.colorTheme": "Sinequanone Sunset",
+    "rest-client.previewOption": "exchange"
   }
