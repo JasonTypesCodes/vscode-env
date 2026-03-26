@@ -76,4 +76,5 @@
     "[markdown]": {
       "editor.wordWrap": "bounded"
     }
+    "rest-client.previewOption": "exchange"
   }
